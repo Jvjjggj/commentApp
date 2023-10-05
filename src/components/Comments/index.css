@@ -1,0 +1,48 @@
+.mainContainer {
+  padding: 40px;
+  height: 100vh;
+}
+.commentsContainer {
+  display: flex;
+}
+.nameInput {
+  padding: 5px;
+  outline: none;
+  width: 100%;
+}
+.textArea {
+  width: 100%;
+  margin-top: 10px;
+  outline: none;
+}
+.inputContainer {
+  width: 50%;
+  flex-grow: 1;
+}
+.combineDiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+.imgDiv {
+  margin: 0px;
+  width: 50%;
+  margin-left: 20px;
+}
+.countComment {
+  display: flex;
+  margin: 0px;
+}
+.btn {
+  background-color: #0284c7;
+  color: #ffff;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+}
+.para {
+  margin-top: 0px;
+  margin-left: 5px;
+}
+.unorderList {
+  list-style-type: none;
+}

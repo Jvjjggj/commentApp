@@ -1,0 +1,122 @@
+.amber {
+  background-color: #f59e0b;
+  border-radius: 50%;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+}
+
+.blue {
+  background-color: #0b69ff;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.orange {
+  background-color: #f97316;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emerald {
+  background-color: #10b981;
+  border-radius: 50%;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+}
+
+.teal {
+  background-color: #14b8a6;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  background-color: #b91c1c;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  padding: 0px;
+  border: solid 1px #334155;
+  margin-bottom: 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  flex-direction: column;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+}
+.nameDiv {
+  display: flex;
+}
+.heading {
+  margin-top: 0px;
+  font-size: medium;
+  margin-left: 5px;
+}
+.para11 {
+  margin-top: 0px;
+  margin-left: 5px;
+}
+.nameDiv {
+  padding: 0px;
+  margin: 0px;
+}
+.commentPara {
+  margin-top: 0px;
+  margin-left: 5px;
+}
+.divv {
+  display: flex;
+}
+.likeDeleteDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn-like {
+  outline: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.likeDiv {
+  display: flex;
+  justify-content: center;
+}
